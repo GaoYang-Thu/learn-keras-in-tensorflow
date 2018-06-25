@@ -1,6 +1,6 @@
 # tensorflow-examples
 
-This repo contains my code (mainly jupyter notebook files) of TensorFlow.
+This repo contains my code (mainly jupyter notebook files) of TensorFlow tutorials.
 
 ## Contents
 
