@@ -4,7 +4,7 @@ This repo contains my code (mainly jupyter notebook files) of TensorFlow tutoria
 
 ## Contents
 
-* Iris classification problem: TensorFlow_eager_Iris.ipynb
+1. Iris classification problem: TensorFlow_eager_Iris.ipynb
 
 ## References
 1. [TensorFlow Official Tutorial](www.tensorflow.org/get_started/eager)
