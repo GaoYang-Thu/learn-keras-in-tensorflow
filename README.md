@@ -11,7 +11,7 @@ This repo contains my implemetation (mainly jupyter notebook files) of TensorFlo
     * _TF_Linear_regression.ipynb_
 
 ## Future learning
-* save and store model
+* how to save and store model
 * tensorboard
 * dataset api
 * autoencoder
