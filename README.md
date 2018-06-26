@@ -1,6 +1,9 @@
 # learn-keras-in-tensorflow
 
-__Goal: Learn to use Keras within TensorFlow to implement autoencoder, gan, ...__  
+__Why Keras? Because:__
+> Being able to go from idea to result with the least possible delay is the key to doing good research.
+
+__Therefore, my goal is: to learn Keras (running on TensorFlow) to implement important machine learning algorithms, (such as autoencoder, gan, ...) and pave the way for future research.__  
 __Learn by doing.__ :sunglasses::sunny:  
 
 ## Contents
