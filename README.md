@@ -17,6 +17,6 @@ This repo contains my implemetation (mainly jupyter notebook files) of TensorFlo
 * gan
 * dcgan
 
-## References
+## _References_
 1. [TensorFlow Official Tutorial](www.tensorflow.org/get_started/eager)
 2. [Aymeric Damien's repo](https://github.com/aymericdamien/TensorFlow-Examples)
