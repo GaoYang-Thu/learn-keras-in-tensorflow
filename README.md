@@ -27,7 +27,7 @@ __Let's get started!__ :sunglasses::sunny:
 
 ## _References_
 1. [TensorFlow Official Tutorial](www.tensorflow.org/get_started/eager)
-2. [Aymeric Damien's repo](https://github.com/aymericdamien/TensorFlow-Examples)
+2. [Aymeric Damien's Repo](https://github.com/aymericdamien/TensorFlow-Examples)
 3. [Keras Documentation](https://keras.io/getting-started/)
-4. [Keras Examples](https://github.com/keras-team/keras/tree/master/examples)
+4. [Keras Examples Repo](https://github.com/keras-team/keras/tree/master/examples)
 
