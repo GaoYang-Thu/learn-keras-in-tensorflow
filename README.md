@@ -1,6 +1,7 @@
-# tensorflow-examples
+# tensorflow-learning-examples
 
-This repo contains my code (mainly jupyter notebook files) of TensorFlow tutorials.
+__Learn TensorFlow by implementing examples.__  
+This repo contains my implemetation (mainly jupyter notebook files) of TensorFlow tutorials.
 
 ## Contents
 
