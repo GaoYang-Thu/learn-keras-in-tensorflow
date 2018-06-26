@@ -4,7 +4,7 @@ __Why Keras? Because:__
 > Being able to go from idea to result with the least possible delay is the key to doing good research.
 
 __Therefore, my goal is: to learn Keras (running on TensorFlow) to implement important machine learning algorithms, (such as autoencoder, gan, ...) and pave the way for future research.__  
-__Let's get started and learn by doing.__ :sunglasses::sunny:  
+__Let's get started!__ :sunglasses::sunny:  
 
 ## Contents
 
