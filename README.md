@@ -32,4 +32,4 @@ __Let's get started!__ :sunglasses::sunny:
 2. [Aymeric Damien's Repo](https://github.com/aymericdamien/TensorFlow-Examples)
 3. [Keras Documentation](https://keras.io/getting-started/)
 4. [Keras Examples Repo](https://github.com/keras-team/keras/tree/master/examples)
-
+5. [Keras Sequantial Model Examples](https://keras.io/getting-started/sequantial-model-guide/)
