@@ -10,10 +10,12 @@ __Let's get started!__ :sunglasses::sunny:
 
 ## Contents
 
-1. Iris classification problem (Keras, 2 hidden-layer CNN)
+1. Iris classification problem (Keras, 2 hidden-layer NN)
     * _TensorFlow_eager_Iris.ipynb_
 2. Linear regression (no Keras needed)
     * _TF_Linear_regression.ipynb_
+3. MLP (multilayer perceptron) classification (Keras, 2 hiddern-layer NN)
+    * _Keras_MLP_classification.ipynb_
 
 ## Future learning
 * general methods for build models using keras
