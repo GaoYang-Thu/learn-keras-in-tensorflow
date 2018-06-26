@@ -1,6 +1,6 @@
 # tensorflow-learning-examples
 
-__Learn TensorFlow by implementing examples.__ :sunglasses:  
+__Learn TensorFlow by implementing examples.__ :sunglasses::sunny:  
 This repo contains my implemetation (mainly jupyter notebook files) of TensorFlow tutorials.
 
 ## Contents
