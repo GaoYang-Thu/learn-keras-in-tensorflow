@@ -16,8 +16,8 @@ __Let's get started!__ :sunglasses::sunny:
 3. [_keras_nn_dummy_classification.ipynb_](https://github.com/GaoYang-Thu/learn-keras-in-tensorflow/blob/master/keras_nn_dummy_classification.ipynb) Implements fully-connected neural network (FNN, =multilayer perceptron) classification (Keras, 2 hiddern-layer NN)
 4. [_keras_nn_mnist.ipynb_](https://github.com/GaoYang-Thu/learn-keras-in-tensorflow/blob/master/keras_nn_mnist.ipynb) Implements fully-connected neural network on MNIST (Keras, 2 hidden-layer NN)
 5. [_keras_cnn_mnist.ipynb_](https://github.com/GaoYang-Thu/learn-keras-in-tensorflow/blob/master/keras_cnn_mnist.ipynb) Implements convolutional neural network (CNN) on MNIST (Keras, CNN)
-6. [_keras_transfer_cnn_mnist.ipynb_]() Implements transfer learning of CNN on MNIST (Keras, feature layers + classification layers = CNN)
-7. [_keras_lstm_text_generation.ipynb_]() Implements long-short term memory (LSTM) and generates text based on Neitzsche's writings (Keras, LSTM)
+6. [_keras_transfer_cnn_mnist.ipynb_](https://github.com/GaoYang-Thu/learn-keras-in-tensorflow/blob/master/keras_transfer_cnn_mnist.ipynb) Implements transfer learning of CNN on MNIST (Keras, feature layers + classification layers = CNN)
+7. [_keras_lstm_text_generation.ipynb_](https://github.com/GaoYang-Thu/learn-keras-in-tensorflow/blob/master/keras_lstm_text_generation.ipynb) Implements long-short term memory (LSTM) and generates text based on Neitzsche's writings (Keras, LSTM)
 
 ## Future learning
 * general methods for build models using keras
