@@ -20,6 +20,8 @@ __Let's get started!__ :sunglasses::sunny:
     * _keras_nn_mnist.ipynb_
 5. Convolutional neural network (CNN) on MNIST (Keras, CNN)
     * _keras_cnn_mnist.ipynb_
+6. Transfer learning of CNN on MNIST (Keras, feature layers + classification layers = CNN)
+    * _keras_transfer_cnn_mnist.ipynb_
 
 ## Future learning
 * general methods for build models using keras
