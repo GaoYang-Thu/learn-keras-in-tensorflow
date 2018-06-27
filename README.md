@@ -16,8 +16,10 @@ __Let's get started!__ :sunglasses::sunny:
     * _TF_Linear_regression.ipynb_
 3. Fully-connected neural network (FNN, =multilayer perceptron) classification (Keras, 2 hiddern-layer NN)
     * _keras_nn_dummy_classification.ipynb_
-4. Fully-connected neural network MNIST (Keras, 2 hidden-layer NN)
+4. Fully-connected neural network on MNIST (Keras, 2 hidden-layer NN)
     * _keras_nn_mnist.ipynb_
+5. Convolutional neural network (CNN) on MNIST (Keras, CNN)
+    * _keras_cnn_mnist.ipynb_
 
 ## Future learning
 * general methods for build models using keras
