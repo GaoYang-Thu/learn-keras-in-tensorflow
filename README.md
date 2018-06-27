@@ -10,18 +10,12 @@ __Let's get started!__ :sunglasses::sunny:
 
 ## Contents
 
-1. Iris classification problem (Keras, 2 hidden-layer NN)
-    * _TensorFlow_eager_Iris.ipynb_
-2. Linear regression (no Keras needed)
-    * _TF_Linear_regression.ipynb_
-3. Fully-connected neural network (FNN, =multilayer perceptron) classification (Keras, 2 hiddern-layer NN)
-    * _keras_nn_dummy_classification.ipynb_
-4. Fully-connected neural network on MNIST (Keras, 2 hidden-layer NN)
-    * _keras_nn_mnist.ipynb_
-5. Convolutional neural network (CNN) on MNIST (Keras, CNN)
-    * _keras_cnn_mnist.ipynb_
-6. Transfer learning of CNN on MNIST (Keras, feature layers + classification layers = CNN)
-    * _keras_transfer_cnn_mnist.ipynb_
+1. [_TensorFlow_eager_Iris.ipynb_](https://github.com/GaoYang-Thu/learn-keras-in-tensorflow/blob/master/TensorFlow_eager_Iris.ipynb) Solves Iris classification problem (Keras, 2 hidden-layer NN)
+2. [_TF_Linear_regression.ipynb_](https://github.com/GaoYang-Thu/learn-keras-in-tensorflow/blob/master/TF_Linear_regression_eager.ipynb) Implements linear regression (no Keras needed)
+3. [_keras_nn_dummy_classification.ipynb_](https://github.com/GaoYang-Thu/learn-keras-in-tensorflow/blob/master/keras_nn_dummy_classification.ipynb) Implements fully-connected neural network (FNN, =multilayer perceptron) classification (Keras, 2 hiddern-layer NN)
+4. [_keras_nn_mnist.ipynb_](https://github.com/GaoYang-Thu/learn-keras-in-tensorflow/blob/master/keras_nn_mnist.ipynb) Implements fully-connected neural network on MNIST (Keras, 2 hidden-layer NN)
+5. [_keras_cnn_mnist.ipynb_](https://github.com/GaoYang-Thu/learn-keras-in-tensorflow/blob/master/keras_cnn_mnist.ipynb) Implements convolutional neural network (CNN) on MNIST (Keras, CNN)
+6. [_keras_transfer_cnn_mnist.ipynb_]() Implements transfer learning of CNN on MNIST (Keras, feature layers + classification layers = CNN)
 
 ## Future learning
 * general methods for build models using keras
