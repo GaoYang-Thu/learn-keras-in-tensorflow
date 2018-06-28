@@ -18,6 +18,7 @@ __Let's get started!__ :sunglasses::sunny:
 5. [_keras_cnn_mnist.ipynb_](https://github.com/GaoYang-Thu/learn-keras-in-tensorflow/blob/master/keras_cnn_mnist.ipynb) Implements convolutional neural network (CNN) on MNIST (Keras, CNN)
 6. [_keras_transfer_cnn_mnist.ipynb_](https://github.com/GaoYang-Thu/learn-keras-in-tensorflow/blob/master/keras_transfer_cnn_mnist.ipynb) Implements transfer learning of CNN on MNIST (Keras, feature layers + classification layers = CNN)
 7. [_keras_lstm_text_generation.ipynb_](https://github.com/GaoYang-Thu/learn-keras-in-tensorflow/blob/master/keras_lstm_text_generation.ipynb) Implements long-short term memory (LSTM) and generates text based on Neitzsche's writings (Keras, LSTM)
+8. [_keras_lstm_conv_video.ipynb]() Implements convolutional LSTM and generates predicted movies frames based on feed movies (Keras, Conv LSTM)
 
 ## Future learning
 * general methods for build models using keras
