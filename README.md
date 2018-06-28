@@ -36,3 +36,4 @@ __Let's get started!__ :sunglasses::sunny:
 3. [Keras Documentation](https://keras.io/getting-started/)
 4. [Keras Examples Repo](https://github.com/keras-team/keras/tree/master/examples)
 5. [Keras Sequantial Model Examples](https://keras.io/getting-started/sequantial-model-guide/)
+6. [How to save and restore models in Keras](https://keras.io/getting-started/faq/#how-can-i-save-a-keras-model)
