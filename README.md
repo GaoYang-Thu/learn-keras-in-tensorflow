@@ -5,7 +5,7 @@ __Why Keras? Because:__
 
 > The ideas behind deep learning are simple, so why should their implementation be painful?
 
-__Therefore, my goal is: to learn Keras (running on TensorFlow) to implement important machine learning algorithms, (such as autoencoder, gan, ...) and pave the way for future research.__  
+__Therefore, my goal is: to learn Keras (running on TensorFlow) for implementing important machine learning algorithms, (such as autoencoder, gan, ...) and pave the way for future research.__  
   
 __Let's get started!__ :sunglasses::sunny:  
 
