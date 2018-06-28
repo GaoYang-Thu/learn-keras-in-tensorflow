@@ -21,8 +21,8 @@ __Let's get started!__ :sunglasses::sunny:
 8. [_keras_lstm_conv_video.ipynb_](https://github.com/GaoYang-Thu/learn-keras-in-tensorflow/blob/master/keras_lstm_conv_video.ipynb) Implements convolutional LSTM and generates predicted movies frames based on feed movies (Keras, Conv LSTM)
 
 ## Future learning
-* general methods for build models using keras
-* how to save and store model
+* ~~general methods for build models using keras~~
+* ~~how to save and store model~~
 * tensorboard
 * dataset api
 * autoencoder
